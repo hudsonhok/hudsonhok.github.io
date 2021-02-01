@@ -1,0 +1,13 @@
+body {
+    background: orange;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: rgb(0, 17, 255);
+    text-align:center;
+}
+img {
+    width: auto !important; /*Keep the aspect ratio of the image*/
+    height: 350px !important;
+    margin: 0 auto 1em auto; /*Center the image*/
+}
